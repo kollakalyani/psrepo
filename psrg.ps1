@@ -1,0 +1,1 @@
+new-azresourcegroup -name "powershellrg" -Location "westus"
